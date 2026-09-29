@@ -11,13 +11,13 @@ Le projet avait pour objectif de créer une vitrine moderne permettant de prése
 ## 📸 Aperçu
 
 <p align="center">
-  <img src="./assets/ballmakers-accueil.png" width="850" alt="Page d'accueil BallMakers">
+  <img src="./ballmakers-accueil.png" width="850" alt="Page d'accueil BallMakers">
 </p>
 
 <p align="center">
   <img src="./ballmakers-menu.png" width="32%" alt="Menu BallMakers">
-  <img src="./assets/ballmakers-contact.png" width="32%" alt="Contact BallMakers">
-  <img src="./assets/ballmakers-exemple.png" width="32%" alt="Exemple BallMakers">
+  <img src="./ballmakers-contact.png" width="32%" alt="Contact BallMakers">
+  <img src="./ballmakers-exemple.png" width="32%" alt="Exemple BallMakers">
 </p>
 
 ---
